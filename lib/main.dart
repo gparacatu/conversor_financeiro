@@ -207,7 +207,7 @@ Widget buildTextField(String label, String prefix,
     onChanged: (t) {
       f(t);
     },
-    keyboardType: TextInputType.number,
+    keyboardType: const TextInputType.numberWithOptions(decimal: true),
   );
 }
 
