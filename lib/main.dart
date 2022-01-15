@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import 'dart:async';
 import 'dart:convert';
 
-var request = Uri.parse("https://api.hgbrasil.com/finance?key=c5d96a3c");
+var request = Uri.parse("https://api.hgbrasil.com/finance?key=133dffa1");
 
 void main() async {
   runApp(
