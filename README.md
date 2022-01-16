@@ -1,4 +1,4 @@
-# conversor_financeiro
+# Conversor Financeiro Online
 
-Mostra a cotação atual das moedas ao vivo, converte diversas moedas.
+Mostra a cotação atual das moedas (EUR/USD) ao vivo, converte moedas.
 
